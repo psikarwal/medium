@@ -9,7 +9,7 @@
 
  - Get it locally -
    ```sh
-   $ git clone https://github.com/psikarwal/medidum.git
+   $ git clone https://github.com/psikarwal/medium.git
    ```
 
    **OR**
